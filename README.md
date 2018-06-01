@@ -1,13 +1,5 @@
 # fragmentNote
 ## Info
-I'm so lazy to get some notes during working or learn new knowledge.
-I wonder if there is a good tool which is fast and easy-using enough to 
-get some notes or tips when I am searching some questions on stackoverflow 
-or other blogs. I know there is such a OneNote plugin on Chrome, but it can only be 
-used on web pages. Just use OneNote directly? **No way!**
-Finally, I want to write it by myself. 
-I'm not good at(In fact, not willing) C++ GUI programming,
-so I choose Java to write this tool. And the implementation is simple as well,
 using ***JNativeHook*** to watching global keyboard events. When I'm looking some
 text and want to save to my note, JUST **CTRL+C** to get them into clipboard, 
 then **CTRL+SHIFT+V** to call this tool to save.
